@@ -2,7 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Nathan Rouse",
 	"description": "A project that does something awesome",
-	"keywords": ["descriptive", "related", "freecodecamp"],
+	"keywords": [ "descriptive", "related", "freecodecamp" ],
+	"license": "N4NO",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
